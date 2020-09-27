@@ -1,0 +1,13 @@
+#texte {
+				 color: black;
+			  text-shadow: 5px 5px 5px grey;
+	  }
+#texte1 {
+		 color: black;
+	  text-shadow: 5px 5px 5px black;
+}
+/*RIGHT CONTAINTE*/
+
+#B {
+	background-color:hsl(40, 100%, 70%);
+}
